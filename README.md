@@ -61,7 +61,7 @@ Upon running, a QR code will be displayed in your terminal. Scan this QR code us
 Feel free to fork the repository, open issues, or submit pull requests. Any contributions are welcome!
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the appache License.
 
 ## Contact
 For any inquiries, please reach out to Darshan at darshangangadhar201@gmail.com.
